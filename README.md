@@ -34,7 +34,3 @@ The Purpose of this tutorial is to demonstrate how to create Step by Step Dynami
 
 
 
-💙 Come along : www.youtube.com/@Shruthi_Mahadev
-
-📺 youtube Vedio Link: https://youtu.be/0YE7aW4qGP4
-
