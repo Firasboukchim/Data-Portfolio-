@@ -1,6 +1,6 @@
 Heart Disease Analysis Dashboard in PowerBI
 
-![Tumbnali](https://github.com/user-attachments/assets/9ebd5db2-7ac5-4011-a3e3-e9e6e60f4927)
+
 
 The Purpose of this tutorial is to demonstrate how to create Step by Step Dynamic Heart Disease Analysis Dashboard Using PowerBI.
 
@@ -32,26 +32,7 @@ The Purpose of this tutorial is to demonstrate how to create Step by Step Dynami
 
 📌 Built using Power BI
 
-📌 Background created in Canva
 
-📊 Dataset  Credit: Heart Failure Clinical Records – UCI Machine Learning Repository
-Authors: Davide Chicco and Giuseppe Jurman
-Source: https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
-License: Creative Commons Attribution 4.0 International (CC BY 4.0) – https://creativecommons.org/licenses/by/4.0/  
-Citation:  Chicco, D., & Jurman, G. (2020). Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. *BMC Medical Informatics and Decision Making*, 20(1), 1-16.
-
-🎨 Image Credit:
-Image by Freepik – https://www.freepik.com/free-psd/3d-rendering-realistic-heart_344840361.htm
-
-🎨 Icon Credit:
-Icon by Flaticon - 
-Author: Sudowoodo
-📌 https://www.flaticon.com/free-icon/person_13482183
-📌 https://www.flaticon.com/free-icon/avatar_13482193
-
-
-🎵 Music Credit:
-Background music: “Jamcito - Cumbia Deli” from YouTube Audio Library
 
 💙 Come along : www.youtube.com/@Shruthi_Mahadev
 
