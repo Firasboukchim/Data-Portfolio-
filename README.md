@@ -1,98 +1,59 @@
-# 📊 Firas Boukhchim — Data Portfolio
+Heart Disease Analysis Dashboard in PowerBI
 
-Junior Data Analyst & Data Science Student | Business Intelligence Specialist
+![Tumbnali](https://github.com/user-attachments/assets/9ebd5db2-7ac5-4011-a3e3-e9e6e60f4927)
 
-[![Email](https://img.shields.io/badge/Email-boukchimf%40gmail.com-red?style=flat&logo=gmail)](mailto:boukchimf@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B216%2027%20619%20298-green?style=flat&logo=whatsapp)](tel:+21627619298)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Firas%20Boukhchim-blue?style=flat&logo=linkedin)](https://linkedin.com)
+The Purpose of this tutorial is to demonstrate how to create Step by Step Dynamic Heart Disease Analysis Dashboard Using PowerBI.
 
----
+🚀 Here’s What you’ll Learn:
 
-## 👋 About Me
+📌 KPI’s Overview : Survival Rate, Avg Age of Survival, Total Survival and Total Death Provide a comprehensive overview of patients.
 
-I'm a Data Analyst specialized in Business Intelligence, currently pursuing a Master's in Data Science & Business Analytics. I'm skilled in BI tools (Power BI, SQL, advanced Excel) and data analysis methodologies. Rigorous and autonomous, I design relevant dashboards and deliver decision-support insights that help drive strategic business decisions.
+📌 Survival Count And Average Serum Creatinine by age group Chart : Helps to identify patterns in patient outcomes. Showing how survival rates vary with age & how serum creatinine levels may correlated with those outcomes.
 
----
+📌 Survival Count and Average Ejection Fraction by Age Group Chart : Visualize the heart function among survivor. We can better understand how heart perform varies with age.
 
-## 🛠️ Skills & Tools
+📌 Survival Rate by Age Group Line Chart : Helps us observe how survival rates change with age and identifying age related risk patterns.
 
-| Category | Technologies |
-|---|---|
-| **Languages** | JavaScript, Python, Java |
-| **Frameworks & Tech** | React, Node.js, Express.js, MongoDB |
-| **BI & Data Tools** | Power BI, SQL, Excel, Git, Microsoft Fabric |
-| **Data Analysis** | Data processing, automated reporting, interactive visualization |
+📌 Ribbon Chart : Visualize the impact of smoking, high blood pressere, diabetes and anaemia across different age groups. Ribbon sizes represent how these factors contribute to health risks at different ages.
 
----
+📌 Slicer allows us to filter the data based on Sex.
 
-## 📁 Featured Projects
+🚀 What’s Covered?
 
-### 📈 Data Analysis Projects
+📝 Data ingestion
 
-| Project | Description |
-|---|---|
-| 🫀 **[Heart Disease Analysis Dashboard](#)** | Interactive dashboard analyzing heart disease risk factors and trends |
-| 📊 **[Tunis Stock Exchange Analysis](#)** | In-depth analysis of Tunis Stock Exchange (BVMT) market data |
-| 💼 **[Advanced Company Sales Analysis](#)** | Deep-dive sales analytics with KPIs and trend forecasting |
-| ✈️ **[Airport Authority Analysis](#)** | Data analysis and reporting for airport authority operations |
-| 😀 **[Facial Emotion Recognition](#)** | Machine learning model for real-time facial emotion detection |
+💳 Summarize KPI’s Metrics
 
-### 💻 Platforms & Applications
+📊 Developing Chart & Visual elements
 
-| Project | Description |
-|---|---|
-| 🧪 **[Technical Skills Assessment Platform](#)** | AI-integrated platform for online technical evaluation, built end-to-end (design, development, testing) |
-| 🏋️ **[Iron Body Mahdia Gym Management System](#)** | Full management system for gym operations |
-| 📦 **[VVS Stock Management System](#)** | Inventory and stock management application |
+📈 Structuring a Professional dashboard layout
 
-> 💡 *Replace the `#` links above with the actual repository URLs for each project.*
+📊 Dashboard Tools:
 
----
+📌 Built using Power BI
 
-## 💼 Professional Experience
+📌 Background created in Canva
 
-**Intern — DigiSwift** | *02/2026 · Tunisia*
-- Designed a smart data-driven management solution for date palm agricultural flows based on IoT data
-- Developed and trained a Machine Learning model for agricultural stress detection
-- Built a real-time data processing and analysis pipeline to optimize irrigation management
+📊 Dataset  Credit: Heart Failure Clinical Records – UCI Machine Learning Repository
+Authors: Davide Chicco and Giuseppe Jurman
+Source: https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
+License: Creative Commons Attribution 4.0 International (CC BY 4.0) – https://creativecommons.org/licenses/by/4.0/  
+Citation:  Chicco, D., & Jurman, G. (2020). Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. *BMC Medical Informatics and Decision Making*, 20(1), 1-16.
 
-**Intern — Digitalcook** | *01/2024 – 05/2024 · Paris, France*
-- Built an AI-integrated technical assessment platform
-- Developed automated analysis modules and report generation
-- Contributed across the full development cycle: design, implementation, and testing
+🎨 Image Credit:
+Image by Freepik – https://www.freepik.com/free-psd/3d-rendering-realistic-heart_344840361.htm
 
----
+🎨 Icon Credit:
+Icon by Flaticon - 
+Author: Sudowoodo
+📌 https://www.flaticon.com/free-icon/person_13482183
+📌 https://www.flaticon.com/free-icon/avatar_13482193
 
-## 🎓 Education
 
-- **Master's in Data Science & Business Analytics** — Université Virtuelle de Tunis (UVT) *(2024 – Present, Online)*
-- **Bachelor's in Business Computing, Business Intelligence** — Institut Supérieur d'Informatique Mahdia *(2021 – 2024)*
+🎵 Music Credit:
+Background music: “Jamcito - Cumbia Deli” from YouTube Audio Library
 
----
+💙 Come along : www.youtube.com/@Shruthi_Mahadev
 
-## 📜 Certifications
+📺 youtube Vedio Link: https://youtu.be/0YE7aW4qGP4
 
-- Data Science – Data Analyst Career Path — *Microsoft & LinkedIn Learning*
-- Data Analysis with Python — *freeCodeCamp*
-- Data Visualization — *freeCodeCamp*
-- Data Analysis – Microsoft Power BI Certification — *Gomycode*
-
----
-
-## 🌍 Languages
-
-- **French** — Advanced
-- **English** — Advanced
-- **Arabic** — Native
-
----
-
-## 📬 Get in Touch
-
-- 📧 Email: [boukchimf@gmail.com](mailto:boukchimf@gmail.com)
-- 📱 Phone: +216 27 619 298
-- 🌐 Portfolio: *[Add your portfolio link here]*
-
----
-
-⭐️ *Feel free to explore my repositories and reach out if you'd like to collaborate!*
